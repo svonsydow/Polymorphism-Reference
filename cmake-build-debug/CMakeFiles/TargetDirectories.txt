@@ -1,0 +1,3 @@
+C:/Users/sanda/CLionProjects/Cpp Programing/svonsydow_week3/cmake-build-debug/CMakeFiles/svonsydow_week3.dir
+C:/Users/sanda/CLionProjects/Cpp Programing/svonsydow_week3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sanda/CLionProjects/Cpp Programing/svonsydow_week3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
